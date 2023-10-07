@@ -1,0 +1,6 @@
+nick,matricula,facu,carrera,promedio,edad,correo
+pako,19467,uabc,computacion,50.30,20,pako@uabc.edu.mx
+jose,19760627,ite,computaciones,91,22,jos@ieite.edu.mx
+pedro,1545,ite,contabilidad,100,20,32423@ite.edu.mx
+arturo,19761,ito,sistemas,50,,arturo@gmail.com
+asd
